@@ -19,10 +19,14 @@ Getting Started:
 To get started with these projects, follow these steps:
 
 1.Clone this repository to your local machine using the following command: git clone https://github.com/your-username/your-repository.git
+
 2.Navigate to the project directory you want to work on: cd your-repository/project-directory
+
 3.Compile the C program using a C compiler, such as GCC: gcc file-name.c -o output-file-name. This will compile the C program and generate an executable file with the specified output file name.
+
 4.Run the compiled program by executing the generated executable file: ./output-file-name
 This will run the compiled C program and execute its instructions.
+
 5.Repeat steps 3-4 for any other C programs you want to run in this repository.
 
 
