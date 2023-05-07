@@ -1,4 +1,4 @@
-C Language Projects:
+***C Language Projects***
 
 This repository contains a collection of C language projects that cover a range of programming concepts and applications. The projects are designed to help users build their skills through hands-on practice with practical, real-world examples.
 
@@ -43,6 +43,7 @@ This will run the compiled C program and execute its instructions.
 
 
 Contributing:
+
 If you have suggestions or improvements for any of the projects in this repository, please feel free to contribute. Follow these steps to contribute:
 
 Fork this repository
@@ -57,10 +58,12 @@ Open a pull request with a detailed description of your changes
 
 
 License:
+
 This repository is licensed under the MIT license.
 
 
 Contact:
+
 If you have any questions or feedback, please contact pareesaabbasi8008@gmail.com
 
 
